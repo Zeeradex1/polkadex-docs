@@ -1,6 +1,6 @@
-# Website
+# polkadot.com
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator/money to this place.
 
 ## Installation
 
