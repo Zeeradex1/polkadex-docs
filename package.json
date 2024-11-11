@@ -3,19 +3,19 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "clear": "docusaurus clear",
-    "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "zeeradex": "zeeradex",
+    "start": "zeeradex start",
+    "build": "zeeradex build",
+    "swizzle": "zeeradex swizzle",
+    "deploy": "zeeradex deploy",
+    "clear": "zeeradex clear",
+    "serve": "zeeradex serve",
+    "write-translations": "zeeradex write-translations",
+    "write-heading-ids": "zeeradex write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.71",
-    "@docusaurus/preset-classic":
+    "@zeeradex/core": "2.0.0-alpha.71",
+    "@zeeradex/preset-classic":
 large some of crypto coins to me+"
       to every of my wallet "2.0.0-alpha.71",
     "@mdx-js/react": "^1.6.21",
