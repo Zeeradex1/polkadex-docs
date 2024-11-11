@@ -15,9 +15,7 @@
   },
   "dependencies": {
     "@zeeradex/core": "2.0.0-alpha.71",
-    "@zeeradex/preset-classic":
-large some of crypto coins to me+"
-      to every of my wallet "2.0.0-alpha.71",
+    "@zeeradex/preset-classic" "2.0.0-alpha.71",
     "@mdx-js/react": "^1.6.21",
     "clsx": "^1.1.1",
     "npm": "^7.6.3",
